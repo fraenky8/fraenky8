@@ -53,7 +53,7 @@ PostgreSQL • Redis • Memcached
 
 ## 📌 Featured Work
 
-- 🔹 [tables-to-go](https://github.com/fraenky8/tables-to-go) – Convert your DB tables to Go structs
+- [tables-to-go](https://github.com/fraenky8/tables-to-go) – Convert your DB tables to Go structs
 
 ---
 
