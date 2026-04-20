@@ -41,7 +41,9 @@ I care about writing systems that are **simple, reliable, and actually maintaina
 ## 🛠 Tech Stack
 
 **Languages**  
-Go (touched and used many more, • Java • JavaScript • SQL  
+- Go
+
+(touched and used many more, including but not limited to Java, JavaScript, SQL)
 
 **Backend & Infra**  
 Microservices • REST • Protobuf • AWS • Docker • Terraform • CI/CD  
@@ -66,15 +68,17 @@ PostgreSQL • Redis • Memcached
 
 ## 🤝 Looking For
 
-I’m currently looking for **backend or platform engineering roles in Singapore**,  
+I’m currently looking for **backend or platform engineering roles in Singapore**,
 especially where I can work on scalable systems with real impact.
+
+- [CV](https://drive.google.com/file/d/1PyKh_Qpp9WvpvoID-nM1oqtEybsFektq/view?usp=drive_link)
 
 ---
 
 ## 🔗 Connect
 
-- 📫 Email: fr4nk235@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/frank-meyer-b3302a9a  
+- 📫 Email: fr4nk235@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/frank-meyer-b3302a9a
 
 ---
 
