@@ -56,6 +56,7 @@ PostgreSQL • Redis • Memcached
 ## 📌 Featured Work
 
 - [tables-to-go](https://github.com/fraenky8/tables-to-go) – Convert your DB tables to Go structs
+- [datastar-cgol-go](https://github.com/fraenky8/datastar-cgol-go) - A realtime, multiplayer Conway's Game of Life implementation using Go, Datastar, and Server-Sent Events.
 
 ---
 
